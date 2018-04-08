@@ -1,1 +1,0 @@
-# Codewars-17
